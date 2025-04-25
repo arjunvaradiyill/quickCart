@@ -1,0 +1,7 @@
+{
+  "name": "Vercelecom",
+  "short_name": "Vercelecom",
+  "description": "E-commerce application",
+  "start_url": "/",
+  "display": "browser"
+} 
